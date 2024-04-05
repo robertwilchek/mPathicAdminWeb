@@ -6,6 +6,7 @@ import AlertComponent from "../components/alert";
 import PasswordChecklist from "react-password-checklist";
 
 const Register = () => {
+    
     const [userName, setUserName] = useState('');
     const [passwd, setPasswd] = useState('');
     const [verify, setVerify] = useState('');
