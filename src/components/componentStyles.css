@@ -1,0 +1,14 @@
+#drop_zone {
+    display: grid;
+    width: 400px;
+    place-content: center;
+    border: 2px dashed lightgray;
+    padding: 16px;
+    text-align: center;
+}
+
+.fp-label {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 8px;
+}
